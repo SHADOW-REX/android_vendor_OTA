@@ -1,0 +1,28 @@
+{
+	"response": [
+		{
+			"maintainer": "SHADOW",
+			"oem": "Xiaomi",
+			"device": "Redmi Note 8 Pro",
+			"filename": "RisingOS-5.0-FINAL-20240821-CORE-UNOFFICIAL-begonia-ota.zip",
+			"download": "https://storage.erensprojects.web.tr/api/download?filename=RisingOS-5.0-FINAL-20240821-CORE-UNOFFICIAL-begonia-ota.zip",
+			"timestamp": 1724277998,
+			"md5": "7e4c397b5eeff706997d17a6dcec5ed9",
+			"sha256": "8dbdaedc7228a014a47e72a7c993e1239a7a8c92cd7c2fbe11588d3a56f99357",
+			"size": 1991774518,
+			"version": "5.0-Lyonesse",
+			"buildtype": "TEST",
+			"forum": "",
+			"gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": "https://t.me/i_am_atomic",
+			"dt": "",
+			"common-dt": "",
+			"kernel": ""
+		}
+	]
+}
