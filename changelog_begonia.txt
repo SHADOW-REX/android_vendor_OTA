@@ -1,0 +1,14 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Redmi Note 8 Pro (begonia)
+Device maintainer: SHADOW
+
+====================
+     31-08-2024
+====================
+- Synced latest Rising v5.1 changes
+- Merged August ASB
+- Added unofficial OTA support
+- Shipped with the latest NoVa Kernel (v4.14.336)
+- Misc. Fixes and Improvements
+
