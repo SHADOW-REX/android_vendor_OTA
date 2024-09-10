@@ -4,6 +4,13 @@ Device: Redmi Note 8 Pro (begonia)
 Device maintainer: SHADOW
 
 ====================
+     10-09-2024
+====================
+- Synced with latest Rising 5.2 changes
+- Merged September ASB
+- Misc. Fixes and Improvements
+
+====================
      31-08-2024
 ====================
 - Synced latest Rising v5.1 changes
