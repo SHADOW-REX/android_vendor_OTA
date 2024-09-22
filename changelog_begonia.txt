@@ -4,6 +4,16 @@ Device: Redmi Note 8 Pro (begonia)
 Device maintainer: SHADOW
 
 ====================
+     22-09-2024
+====================
+- Synced with latest source(5.2.1) changes
+- Added lawnchair launcher
+- FLTO'd the kernel
+- Upstreamed dolby from StatixOS
+- Possible fixes for camera lag
+- Misc. Fixes and Improvements
+
+====================
      10-09-2024
 ====================
 - Synced with latest Rising 5.2 changes
